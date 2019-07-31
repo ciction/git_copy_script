@@ -2,7 +2,6 @@
 
 ## Functionality:
 Executing this script exports a source git repository to another destination repository.
-
 The bash version also adds another commit with files from a third repository.
 
 ## Executing the script:
